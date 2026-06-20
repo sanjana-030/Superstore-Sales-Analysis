@@ -40,16 +40,16 @@ This project analyzes Superstore sales data using Python to identify sales trend
 ## 📸 Dashboard Preview
 
 ### Category Wise Sales & Profit
-![Category](Category-Wise-Sales-Profit.png)
+![Category](./Category-Wise-Sales-Profit.png)
 
 ### Subcategory Wise Profit
-![Subcategory](Subcategory-Wise-Profit.png)
+![Subcategory](./Subcategory-Wise-Profit.png)
 
 ### Region Analysis
-![Region](Region-Year-Month-Analysis.png)
+![Region](./Region-Year-Month-Analysis.png)
 
 ### Sales vs Discount Relationship
-![Discount](Sales-Profit-Discount-Relationship.png)
+![Discount](./Sales-Profit-Discount-Relationship.png)
 
 ### Top Products
-![Top Products](Top-Products-Category-Performance.png)
+![Top Products](./Top-Products-Category-Performance.png)
