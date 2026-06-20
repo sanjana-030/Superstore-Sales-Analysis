@@ -1,7 +1,7 @@
 # 📊 Superstore Sales Analysis
 
 ## 🌟 Project Overview
-This project analyzes Superstore sales data using Python to identify sales trends, profitability, product performance, and business insights.
+This project analyzes Superstore sales data using Python and Power bi to identify sales trends, profitability, product performance, and business insights.
 
 ---
 
