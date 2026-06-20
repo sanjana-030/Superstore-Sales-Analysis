@@ -21,13 +21,13 @@ This project analyzes Superstore sales data using Python and Power BI to identif
 
 ## 📈 Key Insights
 - Furniture generated the highest overall sales.
-- Sales and profit showed a positive relationship.
-- Higher discounts generally reduced profitability.
-- A small number of products contributed significantly to sales.
-- Discount negatively impacted profit.
-- Category performance varied across sales and profit metrics.
+- Sales and profit are strongly related.
+- Higher discounts reduce profitability.
+- A small number of products contribute major sales.
+- Category performance varies significantly across metrics.
 
 ## 📸 Dashboard Preview
+(Add screenshots here)
 
 ## 📂 Files
 - Sales_Analysis.ipynb
