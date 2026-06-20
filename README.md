@@ -29,16 +29,17 @@ This project analyzes Superstore sales data using Python to identify sales trend
 ---
 
 ## 📈 Key Insights
-- Furniture generated highest sales
+- Furniture generated highest sales overall
 - Sales and profit are strongly related
-- Discounts reduce profitability
+- Higher discounts reduce profitability
 - Few products contribute major sales
+- Category performance varies significantly across metrics
 
 ---
 
 ## 📸 Dashboard Preview
 
-### Category Wise Analysis
+### Category Wise Sales & Profit
 ![Category](Category-Wise-Sales-Profit.png)
 
 ### Subcategory Wise Profit
@@ -47,8 +48,8 @@ This project analyzes Superstore sales data using Python to identify sales trend
 ### Region Analysis
 ![Region](Region-Year-Month-Analysis.png)
 
-### Sales vs Discount
+### Sales vs Discount Relationship
 ![Discount](Sales-Profit-Discount-Relationship.png)
 
 ### Top Products
-![Top](Top-Products-Category-Performance.png)
+![Top Products](Top-Products-Category-Performance.png)
