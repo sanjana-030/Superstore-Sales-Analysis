@@ -27,7 +27,21 @@ This project analyzes Superstore sales data using Python and Power BI to identif
 - Category performance varies significantly across metrics.
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+
+### Category Analysis
+![Category](Category-Wise-Sales-Profit.png)
+
+### Subcategory Analysis
+![Subcategory](Subcategory-Wise-Profit.png)
+
+### Region Analysis
+![Region](Region-Year-Month-Analysis.png)
+
+### Discount Impact
+![Discount](Sales-Profit-Discount-Relationship.png)
+
+### Top Products
+![Top Products](Top-Products-Category-Performance.png)
 
 ## 📂 Files
 - Sales_Analysis.ipynb
