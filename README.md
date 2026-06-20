@@ -1,7 +1,9 @@
 # 📊 Superstore Sales Analysis
 
 ## 🌟 Project Overview
-This project analyzes Superstore sales data using Python and Power BI to identify sales trends, profitability, product performance, and business insights.
+This project analyzes Superstore sales data using Python to identify sales trends, profitability, product performance, and business insights.
+
+---
 
 ## 🛠️ Tools Used
 - Python
@@ -9,7 +11,8 @@ This project analyzes Superstore sales data using Python and Power BI to identif
 - NumPy
 - Matplotlib
 - Seaborn
-- Power BI
+
+---
 
 ## 🎯 Business Questions
 - Which category generates the highest sales?
@@ -17,31 +20,35 @@ This project analyzes Superstore sales data using Python and Power BI to identif
 - How does discount affect profit?
 - What is the relationship between sales and profit?
 - Which products are top performers?
-- What factors influence profit and sales performance?
+
+---
+
+## 📂 Files
+- Sales and Profit Analysis of Global Superstore (1).ipynb
+
+---
 
 ## 📈 Key Insights
-- Furniture generated the highest overall sales.
-- Sales and profit are strongly related.
-- Higher discounts reduce profitability.
-- A small number of products contribute major sales.
-- Category performance varies significantly across metrics.
+- Furniture generated highest sales
+- Sales and profit are strongly related
+- Discounts reduce profitability
+- Few products contribute major sales
+
+---
 
 ## 📸 Dashboard Preview
 
-### Category Analysis
+### Category Wise Analysis
 ![Category](Category-Wise-Sales-Profit.png)
 
-### Subcategory Analysis
+### Subcategory Wise Profit
 ![Subcategory](Subcategory-Wise-Profit.png)
 
 ### Region Analysis
 ![Region](Region-Year-Month-Analysis.png)
 
-### Discount Impact
+### Sales vs Discount
 ![Discount](Sales-Profit-Discount-Relationship.png)
 
 ### Top Products
-![Top Products](Top-Products-Category-Performance.png)
-
-## 📂 Files
-- Sales_Analysis.ipynb
+![Top](Top-Products-Category-Performance.png)
